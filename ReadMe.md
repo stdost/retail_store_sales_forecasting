@@ -1,3 +1,8 @@
+# An update to Ensafi's Neural Network Approach to Seasonal FOrecasting - expansion of LSTM/CNN methods to further datasets
+We replicated a subset of Yasaman Ensafi's work with LSTM and CNN architectures to model seasonality in PyTorch. The same modeling approach was applied to 2 additional real world datasets, Case Shiller Home Price index and Susnspots dataset. 
+
+
+From the original Ensafi Github Readme:
 # Neural Network Approach for Seasonal Items Forecasting of a Retail Store
 ## Context
 In recent years, there has been growing interest in the field of Neural Networks. However, research into seasonal time-series forecasting, which has many real-world applications, has produced varied results. In this repository, the performance of Neural Network methods in seasonal time-series forecasting has been compared with other methods. 
